@@ -1,5 +1,5 @@
 # Coursera-Data-Structures
-This repository contains my source code for the problems in Online Course Data Structures by UCSD and HSE in Coursera
+This repository contains my source code for the problems in the Online Course [Data Structures](https://www.coursera.org/learn/data-structures) by UCSD and HSE in Coursera
 
 # Topics
 1. Basic Data Structures
